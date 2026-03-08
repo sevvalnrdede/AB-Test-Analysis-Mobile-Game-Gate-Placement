@@ -9,11 +9,11 @@
 ## 🎯 Project Objectives
 
 * **EDA:** Analyze the distribution of game rounds and handle extreme outliers.
-* 
+ 
 * **Statistical Analysis:** Perform normality and variance checks to select the most robust hypothesis test.
-* 
+  
 * **Retention Analysis:** Use **Bootstrapping** to calculate the statistical probability of which gate location performs better for 1-day and 7-day retention.
-* 
+ 
 * **Business Recommendation:** Provide a data-driven suggestion on optimal gate placement.
 
 ## 📊 Dataset Summary
